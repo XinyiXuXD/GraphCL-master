@@ -1,0 +1,10 @@
+__pycache__/
+.svn/
+data/
+*.pth
+unsupervised_TU/logs/
+unsupervised_TU/training_results/
+unsupervised_TU_IMDB_DD_PROTEINS/training_results
+Group_InfoGraph/training_results/
+Group_InfoGraph/unsuper_dataset/
+.DS_Store
